@@ -1,0 +1,92 @@
+.job-card {
+  width: 90%;
+  margin-top: 45px;
+
+  background-color: #272727;
+  padding: 15px;
+  border-radius: 12px;
+  margin-left: 42px;
+}
+.company-logo-title-card {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+.company-logo {
+  width: 85px;
+  height: 85px;
+}
+.title-card {
+  margin-left: 15px;
+  margin-top: 10px;
+}
+.title {
+  margin-top: 10px;
+  font-size: 22px;
+  font-family: 'Roboto';
+  color: #ffffff;
+}
+.rating-card {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  margin-bottom: 8px;
+}
+.rating-star {
+  color: yellow;
+  font-size: 25px;
+}
+.rating {
+  margin-left: 8px;
+  font-size: 18px;
+  color: #ffffff;
+}
+.location-job-type-lpa-card {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.location-and-jop-type-card {
+  display: flex;
+}
+.location-card {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.location-img {
+  color: #ffffff;
+}
+.location {
+  margin-left: 8px;
+  color: #ffffff;
+}
+.employment-card {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 18px;
+}
+.briefcase-img {
+  color: #ffffff;
+}
+.employment-type {
+  margin-left: 8px;
+  color: #ffffff;
+}
+.package-per-annum {
+  color: #ffffff;
+}
+.hr-line {
+  border-color: #ffffff;
+}
+.description-heading {
+  color: #ffffff;
+  font-size: 18px;
+  font-family: 'Roboto';
+}
+.job-description {
+  color: #f1f5f9;
+  font-size: 14px;
+  font-family: 'Roboto';
+}
